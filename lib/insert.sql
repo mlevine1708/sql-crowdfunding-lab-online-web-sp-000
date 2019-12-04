@@ -1,0 +1,10 @@
+INSERT INTO projects VALUES ("Micah", "Apps", 3300, 05/30/19, 07/30/19);
+INSERT INTO projects VALUES ("Brett", "Apps", 3300, 05/30/19, 07/30/19);
+INSERT INTO projects VALUES ("George", "Apps", 3700, 05/30/19, 07/30/19);
+INSERT INTO projects VALUES ("Sheila", "Music", 3300, 05/30/19, 07/30/19);
+INSERT INTO projects VALUES ("Eli", "Apps", 3300, 05/30/19, 07/30/19);
+INSERT INTO projects VALUES ("Joel", "Apps", 3300, 05/30/19, 07/30/19);
+INSERT INTO projects VALUES ("Sam", "Music", 3500, 05/30/19, 07/30/19);
+INSERT INTO projects VALUES ("Elsa", "Apps", 3300, 05/30/19, 07/30/19);
+INSERT INTO projects VALUES ("Luke", "Apps", 3300, 05/30/19, 07/30/19);
+INSERT INTO projects VALUES ("David", "Apps", 3300, 05/30/19, 07/30/19);
