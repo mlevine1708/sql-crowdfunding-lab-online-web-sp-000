@@ -29,3 +29,5 @@ INSERT INTO users VALUES (17, "Micah", 45);
 INSERT INTO users VALUES (18, "Micah", 45);
 INSERT INTO users VALUES (19, "Micah", 45);
 INSERT INTO users VALUES (20, "Micah", 45);
+
+INSERT INTO pledges VALUES ()
