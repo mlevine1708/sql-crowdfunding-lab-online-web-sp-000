@@ -9,4 +9,23 @@ INSERT INTO projects VALUES (8, "Elsa", "Apps", 3300, 05/30/19, 07/30/19);
 INSERT INTO projects VALUES (9, "Luke", "Apps", 3300, 05/30/19, 07/30/19);
 INSERT INTO projects VALUES (10, "David", "Apps", 3300, 05/30/19, 07/30/19);
 
-INSERT INTO users VALUES ()
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
+INSERT INTO users VALUES (1, "Micah", 45);
